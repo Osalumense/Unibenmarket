@@ -1,0 +1,21 @@
+
+@media (min-width: 0px) and (max-width: 991px){
+	.navbar-expand-lg>.container, .navbar-expand-lg>.container-fluid{padding-left: 15px;padding-right: 15px;
+	}
+	.pull-right{display: none;
+	}
+	#toggle-publish{display: block;}
+	.thumbs{display: flex;flex-wrap: wrap;margin: 2px -2px 0 -2px;
+	}
+	.thumbs-image{width: 25%;padding: 2px;
+	}
+	.thumbs a{padding: 2px;
+	}
+	#mask_as_form{margin-top: 15px;
+	}
+}
+
+@media (min-width: 0px) and (max-width: 576px){
+	.list_space{padding: 15px;
+	}
+}

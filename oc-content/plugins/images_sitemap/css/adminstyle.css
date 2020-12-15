@@ -1,0 +1,73 @@
+#paypalpluspro{
+margin-bottom: 20px;
+clear:both
+}
+
+#paypalpluspro ul{
+overflow:hidden;
+background: #808080;
+margin:0;
+padding:0;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+box-shadow: 0 8px 6px -6px #000000;
+-webkit-box-shadow: 0 8px 6px -6px #000000;
+-moz-box-shadow: 0 8px 6px -6px #000000;
+              
+}
+#paypalpluspro li{
+float:left;
+padding: 10px 40px;
+}
+
+#paypalpluspro li.title{
+background: #4B4B4B;
+color: #2EB0E4;
+font-weight: 900;
+text-shadow: 1px 1px 1px #000000;
+}
+
+#paypalpluspro li.current{
+background: #2EB0E4;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+text-shadow: 1px 1px 1px #000000;
+}
+#paypalpluspro li a{
+color: #FFFFFF;
+font-weight: 700;
+text-shadow: 1px 1px 1px #000000;
+text-decoration: none;
+}
+
+#paypalpluspro li a:hover{
+color: yellow;
+}
+
+#legend{
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+font-weight: 700;
+background: #2EB0E4;
+color: #FFFFFF;
+margin: auto;
+padding:5px;
+text-shadow:1px 1px 1px #000000;
+box-shadow: 0 8px 6px -6px #000000;
+-webkit-box-shadow: 0 8px 6px -6px #000000;
+-moz-box-shadow: 0 8px 6px -6px #000000;
+}
+
+#firma{
+border: 1px solid #ccc;
+margin-top: 30px;
+padding: 5px;
+background: #CCCFD0;
+border-radius: 5px;
+box-shadow: 0 8px 6px -6px #000000;
+-webkit-box-shadow: 0 8px 6px -6px #000000;
+-moz-box-shadow: 0 8px 6px -6px #000000;
+}

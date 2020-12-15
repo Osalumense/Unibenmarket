@@ -1,0 +1,19 @@
+Cookie Consent Plugin Changelog
+SmaRTeY - 2016
+
+Previous version 1.2.2
+
+=> 1.2.3
+# bugfix, path variable correction in config hook (index.php)
++ Updated version to 1.2.3
+
+=> 1.2.2
+# bugfix cookie_consent.min.js, path variable correction
++ Updated version to 1.2.2
+
+=> 1.2.1
++ added a changelog
++ created local images folder
++ copied remote "cookie consent logo" image to local images folder
++ Updated version to 1.2.1
++ Added Quick Language Reference support in languages folder

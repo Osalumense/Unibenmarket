@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookie Consent 1.0\n"
+"POT-Creation-Date: 2015-08-15 13:02+0100\n"
+"PO-Revision-Date: 2015-08-15 13:06+0100\n"
+"Last-Translator: SmaRTeY <smartey@live.nl>\n"
+"Language-Team: SmaRTeY\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: C:\\Users\\De PC Klusjesman\\Desktop\\cookie_consent\n"
+
+#: C:\Users\De PC Klusjesman\Desktop\cookie_consent/admin/admin.php:13
+msgid "cookie_consent settings saved"
+msgstr "Cookie Consent Settings Saved"
+
+#: C:\Users\De PC Klusjesman\Desktop\cookie_consent/admin/admin.php:23
+msgid "Cookie Consent Settings"
+msgstr "Cookie Consent Settings"
+
+#: C:\Users\De PC Klusjesman\Desktop\cookie_consent/admin/admin.php:32
+msgid "Cookie / Privacy Policy URL"
+msgstr "Cookie / Privacy Policy URL"
+
+#: C:\Users\De PC Klusjesman\Desktop\cookie_consent/admin/admin.php:38
+msgid "Color Scheme"
+msgstr "Color Scheme"
+
+#: C:\Users\De PC Klusjesman\Desktop\cookie_consent/admin/admin.php:47
+msgid "Window Position"
+msgstr "Window Position"
+
+#: C:\Users\De PC Klusjesman\Desktop\cookie_consent/admin/admin.php:58
+msgid "Save"
+msgstr "Save Settings"
+
+#: C:\Users\De PC Klusjesman\Desktop\cookie_consent/index.php:16
+msgid "Message"
+msgstr ""
+"This website uses cookies to ensure you get the best experience on our "
+"website."
+
+#: C:\Users\De PC Klusjesman\Desktop\cookie_consent/index.php:16
+msgid "ButtonText"
+msgstr "Got it!"
+
+#: C:\Users\De PC Klusjesman\Desktop\cookie_consent/index.php:16
+msgid "MoreInfo"
+msgstr "More Info"

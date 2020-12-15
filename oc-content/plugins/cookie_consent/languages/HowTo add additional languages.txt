@@ -1,0 +1,45 @@
+Here's a short manual with regard to adding language files to support other languages you might have actived in Admin for the website users to select.
+
+Requirements:
+==================================================================================================================
+
+POEDIT to be able to create .MO files using .PO files which can be downloaded here: 
+https://poedit.net/download
+
+Check out the Osclass Market information which tells you what Osclass language locales look like:
+https://doc.osclass.org/File:Languages_market.png
+
+==================================================================================================================
+
+Let's add another language!
+For example you want the plugin to support the Italian language you would have to create a folder called 'it_IT' in the plugin languages folder.
+Also in Admin you need to have the Osclass Italian language installed and activated for your website users(!)
+
+Step 1: Create the new language 'locale' folder for the language you want to add in the plugin folder: /oc-content/plugins/cookie_consent/languages
+( That would be this folder path: /oc-content/plugins/cookie_consent/languages => /oc-content/plugins/cookie_consent/languages/it_IT )
+
+Step 2: Copy the English .PO and .MO file from /oc-content/plugins/cookie_consent/languages/en_US to the it_IT folder you just created.
+
+Step 3: Download the .PO file using your FTP application.
+
+Step 4: Double Click the downloaded .PO file, POEDIT will now open the file for you
+
+Step 5: Edit the 'Catalog Properties' and change the 'Language' property from 'English' to 'Italian' and save the changes
+
+Step 6: Start translating the language strings from English into Italian (or ask some Italian to help you if you do not know Italian) ;)
+
+Step 7: When done translating click 'Save', now the PO file changes will be saved and a MO file will be created in the folder where the PO file was downloaded
+
+Step 8: Upload the 'new' Italian PO and MO file to your plugins 'it_IT' folder and when asked if files should be overwritten you answer YES!
+
+Step 9: Nothing to do, you're done! :)
+
+==================================================================================================================
+
+If all went well the plugin now offers support for the italian language in case your website user selects the Italian language on your website OR if you offer the Italian language as default for all your website visitors.
+
+In case of issues please use the Osclass Forums:
+http://forums.osclass.org/plugins/*new*-free-cookie-consent-plugin/
+
+
+THANKS!

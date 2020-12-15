@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SEO Plugin\n"
+"POT-Creation-Date: 2015-07-24 16:39+0545\n"
+"PO-Revision-Date: 2015-07-24 16:39+0545\n"
+"Last-Translator: \n"
+"Language-Team: OsclassWizards <hello@osclasswizards.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: configure.php:26 titles_metas.php:26
+msgid "Custom"
+msgstr ""
+
+#: configure.php:29 titles_metas.php:29
+msgid "Donate"
+msgstr ""
+
+#: configure.php:35
+msgid "Configure SEO Plugin"
+msgstr ""
+
+#: configure.php:37
+msgid "Title Separator"
+msgstr ""
+
+#: configure.php:87 titles_metas_home.php:14 titles_metas_pages.php:22
+#: titles_metas_pages.php:47
+msgid "Save changes"
+msgstr ""
+
+#: filters.php:13
+msgid "Publish a listing"
+msgstr ""
+
+#: filters.php:14
+msgid "Edit your listing"
+msgstr ""
+
+#: filters.php:15
+msgid "Send to a friend"
+msgstr ""
+
+#: filters.php:16
+msgid "Contact seller"
+msgstr ""
+
+#: filters.php:48
+msgid "Error"
+msgstr ""
+
+#: filters.php:58
+msgid "page"
+msgstr ""
+
+#: filters.php:66
+msgid "Show all listings"
+msgstr ""
+
+#: filters.php:85
+msgid "Search results"
+msgstr ""
+
+#: filters.php:95
+msgid "Recover your password"
+msgstr ""
+
+#: filters.php:96
+msgid "Login"
+msgstr ""
+
+#: filters.php:100
+msgid "Create a new account"
+msgstr ""
+
+#: filters.php:104
+msgid "Dashboard"
+msgstr ""
+
+#: filters.php:105
+msgid "Manage my listings"
+msgstr ""
+
+#: filters.php:106
+msgid "Manage my alerts"
+msgstr ""
+
+#: filters.php:107
+msgid "Update my profile"
+msgstr ""
+
+#: filters.php:108
+msgid "Public profile"
+msgstr ""
+
+#: filters.php:109
+msgid "Change my email"
+msgstr ""
+
+#: filters.php:110
+msgid "Change my username"
+msgstr ""
+
+#: filters.php:111
+msgid "Change my password"
+msgstr ""
+
+#: filters.php:112
+msgid "Recover my password"
+msgstr ""
+
+#: filters.php:117 titles_metas_pages.php:30
+msgid "Contact"
+msgstr ""
+
+#: functions.php:42 functions.php:63
+msgid "none"
+msgstr ""
+
+#: functions.php:66 item_meta_form.php:35
+msgid "country"
+msgstr ""
+
+#: functions.php:69 item_meta_form.php:33
+msgid "region"
+msgstr ""
+
+#: functions.php:72 item_meta_form.php:31
+msgid "city"
+msgstr ""
+
+#: index.php:52
+msgid "SEO Wiz"
+msgstr ""
+
+#: index.php:54
+msgid "Configure Plugin"
+msgstr ""
+
+#: index.php:55 titles_metas.php:36
+msgid "Titles & Metas"
+msgstr ""
+
+#: index.php:65 index.php:81 index.php:97
+msgid "Saved correctly"
+msgstr ""
+
+#: item_meta_form.php:5
+msgid "SEO Title and Meta Description"
+msgstr ""
+
+#: item_meta_form.php:9
+msgid "Snippet Preview"
+msgstr ""
+
+#: item_meta_form.php:18 titles_metas_home.php:4 titles_metas_pages.php:10
+#: titles_metas_pages.php:35
+msgid "Meta Title"
+msgstr ""
+
+#: item_meta_form.php:20 titles_metas_home.php:5 titles_metas_pages.php:11
+#: titles_metas_pages.php:36
+msgid ""
+"The title is what appears on search engines result page (SERP) as the title. "
+msgstr ""
+
+#: item_meta_form.php:22
+msgid "Preferably under 55 characters."
+msgstr ""
+
+#: item_meta_form.php:26
+msgid "Format"
+msgstr ""
+
+#: item_meta_form.php:29 item_meta_form.php:38
+msgid "title"
+msgstr ""
+
+#: item_meta_form.php:56 titles_metas_home.php:7 titles_metas_pages.php:14
+#: titles_metas_pages.php:39
+msgid "Meta Description"
+msgstr ""
+
+#: item_meta_form.php:58 titles_metas_home.php:8 titles_metas_pages.php:15
+#: titles_metas_pages.php:40
+msgid ""
+"The description is what appears on search engines result page (SERP) as a "
+"short description under the title and the link. This also tells the search "
+"engine what your page or site is about."
+msgstr ""
+
+#: item_meta_form.php:60
+msgid "Preferably under 155 characters."
+msgstr ""
+
+#: item_meta_form.php:64 titles_metas_home.php:10 titles_metas_pages.php:18
+#: titles_metas_pages.php:43
+msgid "Meta Keywords"
+msgstr ""
+
+#: item_meta_form.php:66 titles_metas_home.php:11 titles_metas_pages.php:19
+#: titles_metas_pages.php:44
+msgid "The keywords help to tell search engines what the topic of the page is."
+msgstr ""
+
+#: item_meta_form.php:68
+msgid "Separate keywords with commas."
+msgstr ""
+
+#: titles_metas.php:41
+msgid "Homepage"
+msgstr ""
+
+#: titles_metas.php:44
+msgid "Pages"
+msgstr ""
